@@ -10,6 +10,6 @@ Since books in Minecraft have a page limit most of the chapters are split into t
 
 ### Installation
 
-Download the datapack  here:<br>"release link"
+Download the datapack  here:<br>https://github.com/DrHaid/bible-in-minecraft/releases/download/v1.0/bible-in-minecraft.zip
 
-To install the datapack you may follow this tutorial:<br>"tutorial link"
+To install the datapack you may follow this tutorial:<br><https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack>
