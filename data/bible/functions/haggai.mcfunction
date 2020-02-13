@@ -1,0 +1,1 @@
+give @s written_book{generation:2,author:"multiple authors",title:"Haggai",pages:['["",{"text":"Haggai 1\\n","color":"dark_purple","clickEvent":{"action":"run_command","value":"/function bible:haggai_1"}},{"text":"Haggai 2\\n","color":"dark_purple","clickEvent":{"action":"run_command","value":"/function bible:haggai_2"}}]']}

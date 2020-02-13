@@ -1,0 +1,1 @@
+give @s written_book{generation:2,author:"multiple authors",title:"Obadiah",pages:['["",{"text":"Obadiah 1\\n","color":"dark_purple","clickEvent":{"action":"run_command","value":"/function bible:obadiah_1"}}]']}

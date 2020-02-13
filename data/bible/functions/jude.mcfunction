@@ -1,0 +1,1 @@
+give @s written_book{generation:2,author:"multiple authors",title:"Jude",pages:['["",{"text":"Jude 1\\n","color":"dark_purple","clickEvent":{"action":"run_command","value":"/function bible:jude_1"}}]']}
