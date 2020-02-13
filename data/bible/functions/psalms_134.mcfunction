@@ -1,0 +1,1 @@
+give @s written_book{generation:2,author:"multiple authors",title:"Psalms 134",pages:['{"text":"Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD."}','{"text":"Lift up your hands in the sanctuary, and bless the LORD."}','{"text":"The LORD that made heaven and earth bless thee out of Zion."}']}

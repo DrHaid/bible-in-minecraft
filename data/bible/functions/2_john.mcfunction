@@ -1,0 +1,1 @@
+give @s written_book{generation:2,author:"multiple authors",title:"2 John",pages:['["",{"text":"2 John 1\\n","color":"dark_purple","clickEvent":{"action":"run_command","value":"/function bible:2_john_1"}}]']}
