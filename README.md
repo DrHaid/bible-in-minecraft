@@ -1,6 +1,6 @@
 # Bible in Minecraft
 
-This datapack for Vanilla Minecraft 1.14 is the perfect addition to your Christian Minecraft server. It enables you to read the entire James King Bible in-game.
+This datapack for Vanilla Minecraft 1.14 is the perfect addition to your Christian Minecraft server. It enables you to read the entire King James Bible in-game.
 
 ### Usage
 
