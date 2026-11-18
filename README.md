@@ -1,3 +1,7 @@
+ℹ️ I made this for a meme ages ago and will not update/maintain it.
+
+---
+
 # Bible in Minecraft
 
 This datapack for Vanilla Minecraft 1.14+ is the perfect addition to your Christian Minecraft server. It enables you to read the entire King James Bible in-game.
